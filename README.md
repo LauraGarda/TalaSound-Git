@@ -4,6 +4,7 @@
 
 Ce dépôt contient :
 - ce README
+- un document PDF "UE 22 : Projet Tala Sound" présentant le projet et son contexte
 - Rendu.ipynb : un  Notebook Jupyter contenant la démarche expliquée en détails, le code commenté et des remarques
 - la documentation client
-- des images, des fichiers audios, des vidéos (qui nourrissent notamment le notebook)
+- des images, fichiers audios, vidéos (qui nourrissent notamment le Notebook Jupyter).
