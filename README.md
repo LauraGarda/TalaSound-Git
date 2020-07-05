@@ -4,7 +4,8 @@ Ce dépôt contient les documents relatifs au projet informatique Tala Sound men
 
 Ce dépôt contient :
 - ce README
-- un document PDF "UE 22 : Projet Tala Sound" présentant le projet et son contexte
+- UE 22 : Projet Tala Sound.pdf : un document PDF présentant le projet et son contexte
 - Rendu.ipynb : un  Notebook Jupyter contenant la démarche expliquée en détails, le code commenté et des remarques
-- la documentation client
+- code_tala_sound.py : un document Python contenant exclusivement le code (structuré et indenté) lié au projet
+- doc_client.docx ou .pdf : la documentation client lié au projet
 - des images, fichiers audios, vidéos (qui nourrissent notamment le Notebook Jupyter).
